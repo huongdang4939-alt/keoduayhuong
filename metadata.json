@@ -1,0 +1,6 @@
+{
+  "name": "Kẹo Dừa Quốc Cường - Đặc Sản Kẹo Dừa Ý Hương",
+  "description": "Website chính thức cơ sở sản xuất và phân phối Kẹo Dừa Quốc Cường. Đặc sản kẹo dừa Ý Hương truyền thống xứ dừa, kẹo dừa sáp hảo hạng, phân phối sỉ và lẻ toàn quốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
