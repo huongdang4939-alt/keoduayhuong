@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Phone, Award, ShieldCheck, Sparkles } from 'lucide-react';
+import { ArrowRight, Phone, Award, ShieldCheck } from 'lucide-react';
 import { COMPANY_INFO } from '../data/products';
 import heroImage from '../assets/images/bentre_coconut_grove_1791001223447.jpg';
 
@@ -108,14 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreProducts, onContactClick })
                 </div>
               </div>
             </div>
-
-            {/* Natural decorative accent */}
-            <div className="hidden sm:flex absolute -bottom-4 -left-4 items-center gap-2 px-3.5 py-2 bg-[#3D6647] text-white text-xs font-medium rounded-lg shadow-md">
-              <Sparkles className="w-3.5 h-3.5 text-[#EED8B3]" />
-              <span>Nguyên liệu thiên nhiên chọn lọc</span>
-            </div>
           </div>
-
         </div>
       </div>
     </section>

@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
             </div>
             
             <p className="text-sm text-[#B8D0BF] leading-relaxed max-w-sm">
-              Tự hào gìn giữ và mang tinh hoa hương vị đặc sản kẹo dừa Bến Tre truyền thống đến với quý khách hàng trên mọi miền tổ quốc.
+              Tự hào gìn giữ và mang tinh hoa hương vị đặc sản kẹo dừa Bến Tre truyền thống đến với quý khách hàng.
             </p>
           </div>
 
